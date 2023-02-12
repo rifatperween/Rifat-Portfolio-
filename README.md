@@ -1,2 +1,2 @@
-# Rifat-Portfolio-
+# Rifat Portfolio
 Portfolio Website using Three Js
